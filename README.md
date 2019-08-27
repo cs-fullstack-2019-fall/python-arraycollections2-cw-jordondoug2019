@@ -37,10 +37,7 @@ Write the code to do the following:
 * Print the length of the original DATA list/array (ex. ```Starting length of data list is 10```)
 * Remove all ```BAD_DATA``` from the DATA list/array 
 * Print the length of the final DATA list/array (ex. ```Ending length of data list is 7```)
-
-### Problem 4:
-Use the following list of 5 numbers. 
-```score_list = [21,14,6,8,28,42,21]```
+ 21]```
 
 
 Write the code to do the following:
